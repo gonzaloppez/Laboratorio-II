@@ -1,0 +1,13 @@
+git remote add origin https://github.com/gonzaloppez/Laboratorio-II.git
+git push -u origin master
+
+
+
+#include <iostream>
+using namespace std;
+
+int main(int argc, const char * argv[]) {
+    // insert code here...
+    cout << "Hola mundo!";
+    return 0;
+}
