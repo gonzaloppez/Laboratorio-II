@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1586051645 source:c:\users\gonza\desktop\gonza\utn\utn temp 2\labo ii\tercer clase\tp estructuras\main.cpp
+	<iostream>
+	<clocale>
+	"rlutil.h"
+	"producto.h"
+	"funciones.h"
+
+1586045880 c:\users\gonza\desktop\gonza\utn\utn temp 2\labo ii\tercer clase\tp estructuras\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1586051664 c:\users\gonza\desktop\gonza\utn\utn temp 2\labo ii\tercer clase\tp estructuras\producto.h
+	"rlutil.h"
+
+1586046387 c:\users\gonza\desktop\gonza\utn\utn temp 2\labo ii\tercer clase\tp estructuras\funciones.h
+
+1586292246 source:c:\users\glopez8\desktop\gonza\utn temp 2\tercera clase\tp estructuras\main.cpp
+	<iostream>
+	<clocale>
+	"rlutil.h"
+	"producto.h"
+	"funciones.h"
+
+1586045882 c:\users\glopez8\desktop\gonza\utn temp 2\tercera clase\tp estructuras\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1586297057 c:\users\glopez8\desktop\gonza\utn temp 2\tercera clase\tp estructuras\producto.h
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+
+1586297050 c:\users\glopez8\desktop\gonza\utn temp 2\tercera clase\tp estructuras\funciones.h
+	<iostream>
+	"producto.h"
+
